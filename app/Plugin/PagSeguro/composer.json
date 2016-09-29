@@ -1,0 +1,23 @@
+{
+    "name": "rsdevigo/cakephp-pagseguro",
+    "description": "CakePHP PagSeguro",
+    "type": "cakephp-plugin",
+    "keywords": [
+        "cakephp",
+        "pagseguro",
+        "pagamentos"
+    ],
+    "authors": [
+        {
+            "name": "Rodrigo Sanches Devigo",
+            "homepage": "",
+            "role": "Author"
+        }
+    ],        
+    "homepage": "https://github.com/rsdevigo/cakephp-pagseguro",
+    "license": "MIT",
+    "require": {
+	"pagseguro/php": "@dev",
+        "composer/installers": "*"
+    }
+}

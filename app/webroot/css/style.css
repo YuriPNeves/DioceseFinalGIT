@@ -1,0 +1,21 @@
+.checkered-pattern{
+    background-image: url('../img/checkered-pattern.png')
+}
+.fabric-plaid{
+    background-image: url('../img/fabric-plaid.png')
+}
+.menulink{
+    color: #777 !important;
+}
+.caption h1,.caption h2,.caption h3,.caption h4,.caption h5,ul li a{
+    //text-shadow: black 0.03em 0.03em 0.05em;
+}
+.social_icons > a{
+    margin: 1%;
+}
+.social_icons > a > i:hover, .themes > li > a:hover{
+    color: white !important;
+}
+.personal_footer{
+    background-image: url('../img/retina-wood.png');
+}
